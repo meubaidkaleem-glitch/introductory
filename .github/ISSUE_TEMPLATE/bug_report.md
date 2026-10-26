@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report behavior that appears to be broken
- title: "[BUG] "
+title: "[BUG] "
 labels: bug
 assignees: ""
 ---
